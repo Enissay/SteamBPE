@@ -9,8 +9,9 @@ All ready badges info gathered in one handy table
 
 ## Install
 
-1. Install using tamper/greasemonkey
-2. go to  https://steamcommunity.com/my/badges/ and wait for it to load
+1. Install tampermonkey (Chrome) or greasemonkey (Firefox)
+2. Install the script from https://github.com/Enissay/SteamBPE/raw/master/Steam%20badges%20page%20enhancement.user.js
+3. go to  https://steamcommunity.com/my/badges/ and wait for it to load
 
 I hope you'll find it usefull
 
