@@ -21,7 +21,7 @@ console.log.apply(console,console_info);
 
 // Move content to the right.... (Remove to center)
 $J("#footer").hide();
-$J("div.responsive_page_nonlegacy_content").css("float", "right");
+$J("div.maincontent").css("float", "right");
 /***************
  * Gather Infos
  ***************/
