@@ -2,7 +2,7 @@
 
 ## Description
 
-All ready badges info gathered in one handy table
+All ready badges info gathered in one handy table (If you wait like me till the sale to craft your badges ;-)... **Why** ? To get sales cards instead of useless coupons :P )
 
 ![alt tag](http://i.imgur.com/2tolxI7.jpg)
 
