@@ -5,7 +5,7 @@
   - [x] final subtask cc @mention
 - [ ] a separate task
 
-### Real for SGT v0.2
+### :pushpin: Real for SGT v0.2 :pushpin:
 - [ ] Resizeable window
 - [ ] Markdown preview
 - [ ] live markdown edit in a friendly view
