@@ -5,5 +5,7 @@
   - [x] final subtask cc @mention
 - [ ] a separate task
 
-### For later
-- [ ] a blah
+### Real for SGT v0.2
+- [ ] Resizeable window
+- [ ] Markdown preview
+- [ ] live markdown edit in a friendly view
